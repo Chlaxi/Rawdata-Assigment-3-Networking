@@ -1,0 +1,11 @@
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\obj\Debug\netcoreapp3.0\Server.csprojAssemblyReference.cache
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfoInputs.cache
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfo.cs
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\bin\Debug\netcoreapp3.0\Server.exe
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\bin\Debug\netcoreapp3.0\Server.deps.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.dev.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\bin\Debug\netcoreapp3.0\Server.dll
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\bin\Debug\netcoreapp3.0\Server.pdb
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\obj\Debug\netcoreapp3.0\Server.dll
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Server\obj\Debug\netcoreapp3.0\Server.pdb

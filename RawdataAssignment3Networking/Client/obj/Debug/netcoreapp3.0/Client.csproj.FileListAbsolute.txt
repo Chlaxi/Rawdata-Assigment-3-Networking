@@ -1,0 +1,10 @@
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\bin\Debug\netcoreapp3.0\Client.exe
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\bin\Debug\netcoreapp3.0\Client.deps.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.dev.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\bin\Debug\netcoreapp3.0\Client.dll
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\bin\Debug\netcoreapp3.0\Client.pdb
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfoInputs.cache
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfo.cs
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\obj\Debug\netcoreapp3.0\Client.dll
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\Client\obj\Debug\netcoreapp3.0\Client.pdb

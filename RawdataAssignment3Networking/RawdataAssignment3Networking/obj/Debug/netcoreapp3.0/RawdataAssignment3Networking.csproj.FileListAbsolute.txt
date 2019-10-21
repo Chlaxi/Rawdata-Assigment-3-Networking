@@ -1,0 +1,10 @@
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\bin\Debug\netcoreapp3.0\RawdataAssignment3Networking.exe
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\bin\Debug\netcoreapp3.0\RawdataAssignment3Networking.deps.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\bin\Debug\netcoreapp3.0\RawdataAssignment3Networking.runtimeconfig.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\bin\Debug\netcoreapp3.0\RawdataAssignment3Networking.runtimeconfig.dev.json
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\bin\Debug\netcoreapp3.0\RawdataAssignment3Networking.dll
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\bin\Debug\netcoreapp3.0\RawdataAssignment3Networking.pdb
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\obj\Debug\netcoreapp3.0\RawdataAssignment3Networking.AssemblyInfoInputs.cache
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\obj\Debug\netcoreapp3.0\RawdataAssignment3Networking.AssemblyInfo.cs
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\obj\Debug\netcoreapp3.0\RawdataAssignment3Networking.dll
+D:\Users\Chloe\source\repos\RawdataAssignment3Networking\RawdataAssignment3Networking\obj\Debug\netcoreapp3.0\RawdataAssignment3Networking.pdb
